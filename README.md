@@ -5,7 +5,7 @@ A simple GUI-based calculator built with Python and Tkinter. The application all
 ## Dataset Used
 - <a href="https://github.com/Aajtakk/Calculator_Python">Dataset</a>
 
-## Calculator Screenshot
+## Calculator-Output Screenshot
 ![Calculator-Image](https://github.com/user-attachments/assets/73c585ce-99b2-47c6-9d67-de6dab7db162)
 
 ## Technologies Used
