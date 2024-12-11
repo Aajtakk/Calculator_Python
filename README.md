@@ -1,4 +1,4 @@
-# Calculator_Python
+# Calculator Application 📱
 ##  Project Overview
 A simple GUI-based calculator built with Python and Tkinter. The application allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, division, and modulus. It includes features like a clear button and a backspace functionality.
 
